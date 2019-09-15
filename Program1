@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+module program1 {
+
+	public class Program1GilliganLuke {
+		public static void main(Sting[] args) {
+		Scanner in = new Scanner(System.in);
+		System.out.print("What is the max");
+		int max = in.nextInt();
+		System.out.print("How many people are attending?");
+		int people = in.nextInt();
+		
+		}
+		
+	}
+}
